@@ -6,6 +6,8 @@ django-adldap-sync-primarygroup provides a Django management command that synchr
 
 ** Replace the file https://github.com/marchete/django-adldap-sync/blob/master/adldap_sync/management/commands/syncldap.py
 
+** Modifications flagged with "####!!!!"
+
 
 **It is necessary to add these parameters in the following configuration in settings.py
 
